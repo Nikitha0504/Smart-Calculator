@@ -1,6 +1,21 @@
-# Calculator
-A very basic calculator application created using Java **Swing**. 
+# 📱 JavaFX Calculator  
+A simple, user-friendly calculator application built using **Java** and **JavaFX**. This project performs basic arithmetic operations and provides a clean graphical interface suitable for beginners learning JavaFX.
 
+
+## ✨ Features
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🔄 Clear button  
+- 🖥️ Simple and responsive UI  
+
+
+## 🛠️ Technologies Used
+- **Java (JDK 8+)**  
+- **JavaFX**  
+- **Maven**  
+- **IntelliJ IDEA**  
 
 ## Screenshots
 |                Scientific / Dark                | Standard / Colored |
@@ -19,6 +34,3 @@ A very basic calculator application created using Java **Swing**.
 3. Imported it in Intellij IDEA or any other Java IDE.
 4. Run the application :D
 
-## Contributing 💡
-If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank you.
