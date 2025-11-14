@@ -1,4 +1,4 @@
-# 📱 JavaFX Calculator  
+# Calculator
 A simple, user-friendly calculator application built using **Java** and **JavaFX**. This project performs basic arithmetic operations and provides a clean graphical interface suitable for beginners learning JavaFX.
 
 
